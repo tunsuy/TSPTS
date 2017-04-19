@@ -6,4 +6,4 @@
 
 其中项目下的PTS是一个独立的测试工具
 
-而Jmeter是调用了jmeter的接口，需要配合Jmeter来进行相关测试
+而项目下的Jmeter是调用了jmeter工具的接口，需要配合Jmeter工具来进行相关测试
