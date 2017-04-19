@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="libs/wire-runtime-1.2.0.jar"/>
+	<classpathentry kind="lib" path="libs/json-20160810.jar"/>
+	<classpathentry kind="lib" path="libs/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="libs/ApacheJMeter_core.jar"/>
+	<classpathentry kind="lib" path="libs/ApacheJMeter_java.jar"/>
+	<classpathentry kind="lib" path="libs/jorphan.jar"/>
+	<classpathentry kind="lib" path="libs/logkit-2.0.jar"/>
+	<classpathentry kind="lib" path="libs/avalon-framework-4.1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
